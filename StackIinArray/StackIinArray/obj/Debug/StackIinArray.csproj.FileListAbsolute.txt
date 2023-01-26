@@ -1,0 +1,10 @@
+c:\users\jkh\documents\visual studio 2012\Projects\StackIinArray\StackIinArray\bin\Debug\StackIinArray.exe.config
+E:\Data-STructure\StackIinArray\StackIinArray\bin\Debug\StackIinArray.exe.config
+E:\Data-STructure\StackIinArray\StackIinArray\obj\Debug\StackIinArray.csprojResolveAssemblyReference.cache
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StackIinArray\StackIinArray\bin\Debug\StackIinArray.exe.config
+D:\programming\Data Structure and Algorithms analysisالخوارزميات وهيكلة البيانات\DataStructure\Data-STructure\StackIinArray\StackIinArray\obj\Debug\StackIinArray.csproj.CoreCompileInputs.cache
+D:\programming\Data Structure and Algorithms analysisالخوارزميات وهيكلة البيانات\DataStructure\Data-STructure\StackIinArray\StackIinArray\bin\Debug\StackIinArray.exe.config
+D:\programming\Data Structure and Algorithms analysisالخوارزميات وهيكلة البيانات\DataStructure\Data-STructure\StackIinArray\StackIinArray\bin\Debug\StackIinArray.exe
+D:\programming\Data Structure and Algorithms analysisالخوارزميات وهيكلة البيانات\DataStructure\Data-STructure\StackIinArray\StackIinArray\bin\Debug\StackIinArray.pdb
+D:\programming\Data Structure and Algorithms analysisالخوارزميات وهيكلة البيانات\DataStructure\Data-STructure\StackIinArray\StackIinArray\obj\Debug\StackIinArray.exe
+D:\programming\Data Structure and Algorithms analysisالخوارزميات وهيكلة البيانات\DataStructure\Data-STructure\StackIinArray\StackIinArray\obj\Debug\StackIinArray.pdb
