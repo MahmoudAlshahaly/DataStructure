@@ -1,0 +1,8 @@
+c:\users\jkh\documents\visual studio 2012\Projects\Contians\Contians\bin\Debug\Contians.exe.config
+c:\users\jkh\documents\visual studio 2012\Projects\Contians\Contians\bin\Debug\Contians.exe
+c:\users\jkh\documents\visual studio 2012\Projects\Contians\Contians\bin\Debug\Contians.pdb
+c:\users\jkh\documents\visual studio 2012\Projects\Contians\Contians\obj\Debug\Contians.exe
+c:\users\jkh\documents\visual studio 2012\Projects\Contians\Contians\obj\Debug\Contians.pdb
+E:\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Contians\Contians\bin\Debug\Contians.exe.config
+E:\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Contians\Contians\obj\Debug\Contians.exe
+E:\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Contians\Contians\obj\Debug\Contians.pdb

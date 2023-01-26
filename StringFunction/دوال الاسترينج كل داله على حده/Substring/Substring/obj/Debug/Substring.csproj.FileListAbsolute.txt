@@ -1,0 +1,12 @@
+c:\users\jkh\documents\visual studio 2012\Projects\Substring\Substring\bin\Debug\Substring.exe.config
+c:\users\jkh\documents\visual studio 2012\Projects\Substring\Substring\bin\Debug\Substring.exe
+c:\users\jkh\documents\visual studio 2012\Projects\Substring\Substring\bin\Debug\Substring.pdb
+c:\users\jkh\documents\visual studio 2012\Projects\Substring\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache
+c:\users\jkh\documents\visual studio 2012\Projects\Substring\Substring\obj\Debug\Substring.exe
+c:\users\jkh\documents\visual studio 2012\Projects\Substring\Substring\obj\Debug\Substring.pdb
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Substring\Substring\bin\Debug\Substring.exe.config
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Substring\Substring\obj\Debug\Substring.exe
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Substring\Substring\obj\Debug\Substring.pdb
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Substring\Substring\bin\Debug\Substring.exe
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Substring\Substring\bin\Debug\Substring.pdb
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Substring\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache

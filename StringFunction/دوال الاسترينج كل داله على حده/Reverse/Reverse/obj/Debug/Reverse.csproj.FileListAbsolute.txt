@@ -1,0 +1,6 @@
+c:\users\jkh\documents\visual studio 2012\Projects\Reverse\Reverse\bin\Debug\Reverse.exe.config
+c:\users\jkh\documents\visual studio 2012\Projects\Reverse\Reverse\bin\Debug\Reverse.exe
+c:\users\jkh\documents\visual studio 2012\Projects\Reverse\Reverse\bin\Debug\Reverse.pdb
+c:\users\jkh\documents\visual studio 2012\Projects\Reverse\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
+c:\users\jkh\documents\visual studio 2012\Projects\Reverse\Reverse\obj\Debug\Reverse.exe
+c:\users\jkh\documents\visual studio 2012\Projects\Reverse\Reverse\obj\Debug\Reverse.pdb

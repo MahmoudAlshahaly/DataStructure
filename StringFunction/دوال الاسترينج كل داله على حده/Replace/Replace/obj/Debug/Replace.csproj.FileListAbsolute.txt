@@ -1,0 +1,9 @@
+c:\users\jkh\documents\visual studio 2012\Projects\Replace\Replace\bin\Debug\Replace.exe.config
+c:\users\jkh\documents\visual studio 2012\Projects\Replace\Replace\obj\Debug\Replace.csprojResolveAssemblyReference.cache
+c:\users\jkh\documents\visual studio 2012\Projects\Replace\Replace\bin\Debug\Replace.exe
+c:\users\jkh\documents\visual studio 2012\Projects\Replace\Replace\bin\Debug\Replace.pdb
+c:\users\jkh\documents\visual studio 2012\Projects\Replace\Replace\obj\Debug\Replace.exe
+c:\users\jkh\documents\visual studio 2012\Projects\Replace\Replace\obj\Debug\Replace.pdb
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Replace\Replace\bin\Debug\Replace.exe.config
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Replace\Replace\obj\Debug\Replace.exe
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\Replace\Replace\obj\Debug\Replace.pdb

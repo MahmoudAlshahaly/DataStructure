@@ -1,0 +1,12 @@
+c:\users\jkh\documents\visual studio 2012\Projects\upper\upper\bin\Debug\upper.exe.config
+c:\users\jkh\documents\visual studio 2012\Projects\upper\upper\bin\Debug\upper.exe
+c:\users\jkh\documents\visual studio 2012\Projects\upper\upper\bin\Debug\upper.pdb
+c:\users\jkh\documents\visual studio 2012\Projects\upper\upper\obj\Debug\upper.csprojResolveAssemblyReference.cache
+c:\users\jkh\documents\visual studio 2012\Projects\upper\upper\obj\Debug\upper.exe
+c:\users\jkh\documents\visual studio 2012\Projects\upper\upper\obj\Debug\upper.pdb
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\upper\upper\bin\Debug\upper.exe.config
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\upper\upper\obj\Debug\upper.exe
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\upper\upper\obj\Debug\upper.pdb
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\upper\upper\bin\Debug\upper.exe
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\upper\upper\bin\Debug\upper.pdb
+F:\Courses\PROGRAMMING\DataStructure\Data-STructure\StringFunction\دوال الاسترينج كل داله على حده\upper\upper\obj\Debug\upper.csprojResolveAssemblyReference.cache
