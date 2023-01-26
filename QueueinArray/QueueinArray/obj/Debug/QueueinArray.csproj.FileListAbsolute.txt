@@ -1,0 +1,3 @@
+c:\users\jkh\documents\visual studio 2012\Projects\QueueinArray\QueueinArray\bin\Debug\QueueinArray.exe.config
+E:\Data-STructure\QueueinArray\QueueinArray\bin\Debug\QueueinArray.exe.config
+F:\COURSES\PROGRAMMING\DataStructure\Data-STructure\QueueinArray\QueueinArray\bin\Debug\QueueinArray.exe.config
